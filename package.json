@@ -1,0 +1,23 @@
+{
+  "name": "pk-currency-convertor",
+  "version": "1.0.0",
+  "description": "an package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pramodk216/currency-convertor.git"
+  },
+  "author": "Pramod Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pramodk216/currency-convertor/issues"
+  },
+  "homepage": "https://github.com/Pramodk216/currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
